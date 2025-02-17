@@ -10,8 +10,8 @@ list = "a list is an ordered collection of items, which can be of different type
 print(list)
 tuple = "a tuple is an ordered collection of items, similar to a list, but immutable"
 print(tuple)
-set = "a set is an unordered collection of unique items"
-print(set)
 dictionary = "a dictionary is a collection of key-value pairs"
 print(dictionary)
+set = "a set is an unordered collection of unique items"
+print(set)
 # Output: print(integer, float, string, boolean, list, tuple, set, dictionary)

@@ -1,0 +1,17 @@
+integer = "an integer represents whole numbers without decimals"
+print(integer)
+float = "a float represents numbers with decimal points"
+print(float)
+string = "a string is a sequence of characters enclosed in quotes"
+print(string)
+boolean = "a boolean represents a truth value, either True or False"
+print(boolean)
+list = "a list is an ordered collection of items, which can be of different types"
+print(list)
+tuple = "a tuple is an ordered collection of items, similar to a list, but immutable"
+print(tuple)
+set = "a set is an unordered collection of unique items"
+print(set)
+dictionary = "a dictionary is a collection of key-value pairs"
+print(dictionary)
+# Output: print(integer, float, string, boolean, list, tuple, set, dictionary)
